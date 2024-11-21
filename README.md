@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-I'm Rajesh, a passionate software engineer with experience in Python,bi tools and data analytics. I'm currently learning machine learning and AI while working on open-source projects.
+I'm Rajesh, a passionate data analysist  with experience in Excel,sql, Python,bi tools and data analysis. I'm currently learning  AI while working on open-source projects.
 
 - 🔭 I’m currently working on: Automating workflows with Python and AI.
-- 🌱 I’m currently learning: SQL,Python 
+- 🌱 I’m currently learning:  AI Technology
 - 💬 Ask me about: Python, Data Analysis, Automation, and open-source contributions.
 - 📫 How to reach me: polnatirajesh18@gmail.com
 - ⚡ Fun fact: I love to solve complex problems with simple solutions.
